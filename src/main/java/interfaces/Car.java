@@ -1,4 +1,4 @@
-package basic;
+package interfaces;
 
 public class Car {
     private String name;    // 자동차 이름
