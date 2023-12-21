@@ -1,0 +1,17 @@
+package xml;
+
+public class Money {
+    private int amount;     // 총 액
+
+    public Money(int amount) {
+        this.amount = amount;
+    }
+
+    public int getAmount() {
+        return amount;
+    }
+
+    public void setAmount(int amount) {
+        this.amount = amount;
+    }
+}
